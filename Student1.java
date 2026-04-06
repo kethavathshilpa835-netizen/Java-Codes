@@ -1,8 +1,8 @@
 //Create management System
-Class Student
+class Student
 {
     String Name;
-    String Roll no;
-    int total;
+    String RollNo;
+    int Total;
     int age;
 }
